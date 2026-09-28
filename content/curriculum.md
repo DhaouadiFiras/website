@@ -8,7 +8,9 @@ math = "true"
 ##### A more detailed version of my curriculum is available in PDF format {{< attach "CV_Dhaouadi.pdf" here >}}.
 
 ### {{< fas "book" >}} Research experience 
-- **{{< far "calendar-alt" >}} 19/12/2022 - present - {{< fas "map-marker-alt" >}} Dipartimento di Ingegneria Civile, Ambientale e Meccanica, Trento**
+- **{{< far "calendar-alt" >}} 01/09/2026 - present - {{< fas "map-marker-alt" >}} ENSEIRB-MATMECA, Bordeaux INP, Bordeaux**
+Maître de Conférences. Research carried out at the Institut de Mathématiques de Bordeaux (IMB) and at Inria Bordeaux, within the CARDAMOM team.
+- **{{< far "calendar-alt" >}} 19/12/2022 - 31/08/2026 - {{< fas "map-marker-alt" >}} Dipartimento di Ingegneria Civile, Ambientale e Meccanica, Trento**
 Assistant Professor position under the NextGenerationEU grant, Azione 247 MUR Young Researchers – Seal of Excellence line.
 - **{{< far "calendar-alt" >}} 15/03/2021 - 18/12/2022 - {{< fas "map-marker-alt" >}}Dipartimento di Ingegneria Civile, Ambientale e Meccanica, Trento**
 Postdoctoral fellowship.

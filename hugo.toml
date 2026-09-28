@@ -17,7 +17,7 @@ author = "Firas Dhaouadi"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = ""
 keywords = "Hyperbolic Model developer,d"
-info = ["Applied mathematician working in model development, numerical analysis and scientific computing, with particular interest in hyperbolic PDEs."]
+info = ["Maître de Conférences at [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr), researcher at the [Institut de Mathématiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/) and in the Inria [CARDAMOM](https://team.inria.fr/cardamom/) team.", "I work in model development, numerical analysis and scientific computing, with particular interest in hyperbolic PDEs and hyperbolization of PDEs."]
 
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"

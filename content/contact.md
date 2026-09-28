@@ -5,12 +5,12 @@ slug = "contact"
 
 
 **University address**
-Dipartimento di Ingegneria Civile, Ambientale e Meccanica,
-via Mesiano, 77, 38123 Trento, Italy
+Centre Inria de l'université de Bordeaux,
+200 avenue de la Vieille Tour, 33405 Talence Cedex, France
 
 **Contact information**
-{{< fas "phone" >}} (+39) 046 128 2646 
-{{< far "envelope" >}} [firas.dhaouadi@unitn.it](mailto:firas.dhaouadi@unitn.it)
+{{< fas "phone" >}} (+33) 5 24 57 41 95 
+{{< far "envelope" >}} [firas.dhaouadi@bordeaux-inp.fr](mailto:firas.dhaouadi@bordeaux-inp.fr)
 
 **Reach out to me also here**
 {{< fab "researchgate" >}} [Researchgate](https://www.researchgate.net/profile/Firas-Dhaouadi)
